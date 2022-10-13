@@ -1,0 +1,15 @@
+c:\users\lab3-13\documents\visual studio 2013\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+c:\users\lab3-13\documents\visual studio 2013\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+c:\users\lab3-13\documents\visual studio 2013\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+c:\users\lab3-13\documents\visual studio 2013\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.csprojResolveAssemblyReference.cache
+c:\users\lab3-13\documents\visual studio 2013\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+c:\users\lab3-13\documents\visual studio 2013\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+C:\Users\Lab3-13\Desktop\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+C:\Users\Lab3-13\Desktop\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+C:\Users\Lab3-13\Desktop\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+G:\Kodlar\bir boşluk kayan yazı\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+G:\Kodlar\bir boşluk kayan yazı\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+G:\Kodlar\bir boşluk kayan yazı\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+G:\Kodlar\bir boşluk kayan yazı\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+G:\Kodlar\bir boşluk kayan yazı\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+G:\Kodlar\bir boşluk kayan yazı\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.csprojResolveAssemblyReference.cache
